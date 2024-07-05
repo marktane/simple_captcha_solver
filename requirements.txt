@@ -1,0 +1,5 @@
+opencv-contrib-python==4.6.0.66
+opencv-python-headless==4.10.0.84
+matplotlib-inline==0.1.6
+matplotlib==3.8.1
+easyocr==1.7.1
