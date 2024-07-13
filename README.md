@@ -1,1 +1,1 @@
-it is a simple captcha solver using easy ocr
+a simple captcha solver using easyocr
